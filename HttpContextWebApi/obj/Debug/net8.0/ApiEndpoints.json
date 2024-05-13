@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "HttpContextWebApi.Controllers.ValuesController",
+    "Method": "Get",
+    "RelativePath": "api/Values/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

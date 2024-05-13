@@ -1,0 +1,6 @@
+@HttpContextWebApi_HostAddress = http://localhost:5038
+
+GET http://localhost:5038/api/Values/Get?age=31&name=alican
+Accept: application/json
+SecretKey:alican
+###

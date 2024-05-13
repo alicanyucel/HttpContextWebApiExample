@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1/mV7RKnGvd9tLzj2vEmkEzN2FVyxdyCBe4lUVAcwFE=",
+  "Source": "HttpContextWebApi",
+  "BasePath": "_content/HttpContextWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
